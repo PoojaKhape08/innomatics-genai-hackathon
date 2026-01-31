@@ -19,4 +19,6 @@ Advanced GenAI Internship Entrance Hackathon.
 - NumPy
 - Matplotlib
 - Seaborn
+- mySQL
+- 
 
