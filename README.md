@@ -1,4 +1,4 @@
-# Innomatics GenAI Hackathon – Data Analysis
+# Innomatics GenAI Hackathon
 
 This repository contains my submission for the Innomatics Research Labs
 Advanced GenAI Internship Entrance Hackathon.
